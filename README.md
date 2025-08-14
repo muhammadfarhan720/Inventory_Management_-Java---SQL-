@@ -1,6 +1,6 @@
 # Inventory Management – Java & MySQL
 
-This repository contains the **backend source code** for an Inventory Management Software that I previously designed for my workspace.  
+This repository contains the **backend source code** for an Inventory Management Software that I had previously designed for my workspace.  
 The software is developed in **Java** and uses **MySQL** for online database management.
 
 ---
