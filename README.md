@@ -1,13 +1,20 @@
-# Inventory_Management_-Java---SQL-
-This repo contains an Inventory Management Software Backend source codes that I had designed previously for my workspace. The software is built upon Java and uses MySQL for online database management
+# Inventory Management – Java & MySQL
 
-# Functions
+This repository contains the **backend source code** for an Inventory Management Software that I previously designed for my workspace.  
+The software is developed in **Java** and uses **MySQL** for online database management.
 
---> The inventory keeper updates through a password based GUI whenever a product in the inventory is removed or added
---> The database is saved in the manager's server through MySQL database record
---> The manager can see the complete record of the inventory data from his server/PC
+---
 
+## Features
 
-Check out the [demo of my software on LinkedIn](https://www.linkedin.com/posts/muhammad-farhan-azmine-730200150_today-by-the-grace-of-the-almighty-i-completed-activity-6736888400965627904-uEhZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRWXBQBUQQF7OnYBjpSFl4I0tL4XxaYhhU).
+- **Secure Access:** Password-protected GUI for updating inventory whenever a product is added or removed.  
+- **Centralized Database:** Inventory records are stored on the manager’s server using MySQL.  
+- **Real-Time Monitoring:** The manager can view complete inventory data directly from their server or PC.  
 
+---
 
+## Demo
+
+[🔗 View the software demo on LinkedIn](https://www.linkedin.com/posts/muhammad-farhan-azmine-730200150_today-by-the-grace-of-the-almighty-i-completed-activity-6736888400965627904-uEhZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACRWXBQBUQQF7OnYBjpSFl4I0tL4XxaYhhU)
+
+---
