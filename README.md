@@ -16,7 +16,8 @@ The software is developed in **Java** and uses **MySQL** for online database man
 ## Source Code
 
 💡 **Check the source code here:**  
-`Inventory_soft/Inventory_soft/src/inventory_soft`  
+[Inventory Management Source Code](https://github.com/muhammadfarhan720/Inventory_Management_-Java---SQL-/tree/main/Inventory_soft/Inventory_soft/src/inventory_soft)
+
 
 ---
 
